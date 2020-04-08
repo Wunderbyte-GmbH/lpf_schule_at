@@ -1,0 +1,15 @@
+#block_exacomp .percent-rating-text {
+	width: 30px;
+}
+#block_exacomp .percent-rating {
+	width: 40px;
+	cursor: pointer;
+	text-align: right;
+}
+
+#block_exacomp  .competencegrid_tooltip {
+	border: none;
+    background-color: inherit;
+    cursor: pointer;
+    display: inline-block; 
+}
